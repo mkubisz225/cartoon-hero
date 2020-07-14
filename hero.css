@@ -36,21 +36,14 @@ main {
     margin: 0 auto;
     padding: 20px 20px;
 }
-
-main p {
-    margin: 0 0 25px;
-}
-
 main img {
     max-width: 100%;
-}
-main ol, ul {
-    margin: 0;
 }
 
 h2 {
     font-size: 25px;
     color: #523213;
+    margin: 40px 0 20px;
 }
 
 a {
@@ -74,4 +67,9 @@ footer p {
 
 footer a{
    color: white; 
+}
+p.caption{
+    color: lightslategray;
+    font-style: italic; 
+    margin-top: 0;
 }
